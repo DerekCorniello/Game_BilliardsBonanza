@@ -1,0 +1,151 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &4743712752638236059
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4743712752638236057}
+  - component: {fileID: 4743712752638236058}
+  - component: {fileID: 4743712752638236056}
+  m_Layer: 0
+  m_Name: AudioManager
+  m_TagString: Untagged
+  m_Icon: {fileID: -5397416234189338067, guid: 0000000000000000d000000000000000, type: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4743712752638236057
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4743712752638236059}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: -18.495}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &4743712752638236058
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4743712752638236059}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 84535d31d0867ba49a4113452d4f9f5f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  sounds:
+  - name: ballclick1
+    clip: {fileID: 8300000, guid: 8176e181ba0061043866abaddb133177, type: 3}
+    volume: 0.75
+    pitch: 1
+    source: {fileID: 0}
+    loop: 0
+  - name: ballclick2
+    clip: {fileID: 8300000, guid: 071733010fe22b348856a6692d36d229, type: 3}
+    volume: 0.75
+    pitch: 1
+    source: {fileID: 0}
+    loop: 0
+  - name: ballclick3
+    clip: {fileID: 8300000, guid: fb891bfc0ad3e5c4994bdb69a8dc402c, type: 3}
+    volume: 0.75
+    pitch: 1
+    source: {fileID: 0}
+    loop: 0
+  - name: ballclick4
+    clip: {fileID: 8300000, guid: 4bdd0359d8ef05741891c72e0dff6064, type: 3}
+    volume: 0.75
+    pitch: 1
+    source: {fileID: 0}
+    loop: 0
+  - name: cue1
+    clip: {fileID: 8300000, guid: f0b9c1d1fce45a7459acc6a3f2d4af48, type: 3}
+    volume: 0.75
+    pitch: 1
+    source: {fileID: 0}
+    loop: 0
+  - name: cue2
+    clip: {fileID: 8300000, guid: 18bd3b38a2d906f45acb283baef0c48e, type: 3}
+    volume: 0.75
+    pitch: 1
+    source: {fileID: 0}
+    loop: 0
+  - name: cue3
+    clip: {fileID: 8300000, guid: 358f3426abc72b74c99263c1e9086c89, type: 3}
+    volume: 0.75
+    pitch: 1
+    source: {fileID: 0}
+    loop: 0
+  - name: cue4
+    clip: {fileID: 8300000, guid: c6360797b4f2a0e49bb40b7be09ec34d, type: 3}
+    volume: 0.75
+    pitch: 1
+    source: {fileID: 0}
+    loop: 0
+  - name: cue5
+    clip: {fileID: 8300000, guid: 8944130212e9873488af19dbaac6da3a, type: 3}
+    volume: 0.75
+    pitch: 1
+    source: {fileID: 0}
+    loop: 0
+  - name: pocket1
+    clip: {fileID: 8300000, guid: fbe054ab6e0dd124d9e1d5fd1f57511a, type: 3}
+    volume: 0.75
+    pitch: 1
+    source: {fileID: 0}
+    loop: 0
+  - name: pocket2
+    clip: {fileID: 8300000, guid: 0e399cf165f408342ac6702a07fa6503, type: 3}
+    volume: 0.75
+    pitch: 1
+    source: {fileID: 0}
+    loop: 0
+  - name: pocket3
+    clip: {fileID: 8300000, guid: b5210726bf9bdd146a985968b0fd85f0, type: 3}
+    volume: 0.75
+    pitch: 1
+    source: {fileID: 0}
+    loop: 0
+  - name: sidekiss1
+    clip: {fileID: 8300000, guid: 1793def34e30fb9418843ca29fc55c8a, type: 3}
+    volume: 0.05
+    pitch: 1
+    source: {fileID: 0}
+    loop: 0
+  - name: sidekiss2
+    clip: {fileID: 8300000, guid: 1d3615297bd5be945821036f06874590, type: 3}
+    volume: 0.05
+    pitch: 1
+    source: {fileID: 0}
+    loop: 0
+  - name: sidekiss3
+    clip: {fileID: 8300000, guid: d0e0441522efc6d4d8ba7369c412f0a6, type: 3}
+    volume: 0.05
+    pitch: 1
+    source: {fileID: 0}
+    loop: 0
+  - name: Track1
+    clip: {fileID: 8300000, guid: f38002d935cae3d47b94e9e344a73f8e, type: 3}
+    volume: 0.35
+    pitch: 1
+    source: {fileID: 0}
+    loop: 1
+--- !u!81 &4743712752638236056
+AudioListener:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4743712752638236059}
+  m_Enabled: 1

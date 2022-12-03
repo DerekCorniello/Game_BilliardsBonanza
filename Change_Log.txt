@@ -1,0 +1,94 @@
+v0.0.1 - BARE MINIMUM:
+
+All of the "Billiards" of the game necessary to play have been added and finished.
+
+v0.1.0:
+
+Added the aiming bar to the game
+
+v0.2.0:
+
+Added Power Bar
+Patched Bugs with pocket collision between Balls
+Changed position of pocket selectors
+
+v0.2.1:
+
+Added better collision with the walls
+Improved Power Bar to keep balls in play
+Polished Scratch placement so you are unable to place it outside the table
+Improved and big fixed the aiming bar
+
+v0.2.2: 
+
+Improved collision with walls and balls AGAIN
+Improved the physics to allow balls to bounce and rotate correctly
+
+v0.2.3:
+
+Ghost Ball Added to improve shooting precision
+Line Renederer changed to become more precise
+
+v0.2.4:
+
+BUG FIXES
+Changed functionality of events
+Uphauled logic of game to best fit billiards
+Redesigned and Added sprites for later use
+
+v0.2.5:
+Added win and lose menus
+Fixed bugs with the arrow rotation and more
+Improved Performance
+Logic Adjustments
+
+v0.3.0:
+Added all editors
+Added and configured particles
+
+v0.4.0:
+Added Help Menu pictures
+Various ease-of-use and performance changes
+
+v0.5.0:
+
+Added better player prefs
+Added resolution fixes
+fixed prev bugs
+
+v0.6.0: 
+
+Revamped ball switching
+Fixed 8 Ball problems with calling, pocketing and winning
+Stopped game after end menu
+
+v0.7.0
+
+Fixed gameplay and bugs
+Added numerous features to help gameflow
+revamped ball switch and 8 ball
+
+v0.7.1
+
+Fixed a bug where the game freezes
+
+v0.7.2 
+
+Fixed more 8 ball issues
+Added and Fixed icons
+Fixed Switching errors
+
+v0.7.3
+
+Changed EVEN MORE 8 ball issues
+Changed a bug with the earthquake particles
+Performance fixes
+changed numerous user friendly things.
+
+v1.0.0
+RELEASE THE GAME!!!
+
+v1.1.0
+Fixed issue with ball count
+Fixed issue with cue ball on placement after scratch
+Fixed issue with cue ball not colliding after scratch had already occured

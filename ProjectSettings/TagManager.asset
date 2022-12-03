@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - eight
+  - cue
+  - wall
+  - pocket
+  - redball
+  - blueball
+  - pocketer
+  - RedStick
+  - BlueStick
+  - AudioManager
+  - Rulesetter
+  - blocker
+  - pop
+  - QuakeParticle
+  - collisionParticle
+  - OutOfBounds
+  - mb
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Balls
+  - CueBall
+  - pocketers
+  - 
+  - Sticks
+  - 
+  - Dragger
+  - Mouse
+  - 
+  - 
+  - 
+  - 
+  - PostProcessor
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Mouse
+    uniqueID: 954656547
+    locked: 0
+  - name: Balls
+    uniqueID: 3530213943
+    locked: 0
+  - name: CueBall
+    uniqueID: 39548997
+    locked: 0
+  - name: Arrows
+    uniqueID: 1414843947
+    locked: 0
+  - name: Sticks
+    uniqueID: 812395309
+    locked: 0
